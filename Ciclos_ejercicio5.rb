@@ -4,7 +4,7 @@
 
 suma = 0
 
-11.times do |i|
-  suma = suma + i
+10.times do |i|
+  suma += (i+1)
 end
 puts suma
